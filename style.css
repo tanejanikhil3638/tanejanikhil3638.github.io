@@ -417,8 +417,8 @@ nav ul li a:hover {
 
 .c-btn {
     display: flex;
-    /* justify-content: space-between; */
-    /* align-items: stretch; */
+     justify-content: space-between; 
+    align-items: stretch; 
     padding: 60px 0px;
 }
 
@@ -926,7 +926,7 @@ nav .menu-btn {
 
     .portfolio-btn {
         display: flex;
-        justify-content: left;
+        justify-content: center;
         padding: 6px 1px;
     }
 
